@@ -2,7 +2,7 @@
 ## Title: RatedStats - RBG Alerts
 ## Notes: Floating Rated Battleground premade group watcher
 ## Author: liamnap
-## Version: v0.7-beta
+## Version: v1.0
 ## IconTexture: Interface\AddOns\RatedStats_RBGAlerts\RatedStats.tga
 ## Group: RatedStats
 ## SavedVariables: RBGAlertsDB
