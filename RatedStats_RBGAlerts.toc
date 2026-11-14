@@ -1,0 +1,12 @@
+## Interface: 120105
+## Title: RatedStats - RBG Alerts
+## Notes: Floating Rated Battleground premade group watcher
+## Author: liamnap
+## Version: v0.7-beta
+## IconTexture: Interface\AddOns\RatedStats_RBGAlerts\RatedStats.tga
+## Group: RatedStats
+## SavedVariables: RBGAlertsDB
+## OptionalDeps: RatedStats, RatedStats_Achiev
+## X-Category: Battlegrounds/PvP
+
+RBGAlerts.lua
