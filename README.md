@@ -41,6 +41,17 @@ Install through CurseForge when a release is available, or install manually:
 
 When Rated Stats is enabled and its settings category is available, **RBG Alerts** appears beneath **Rated Stats** in Settings > AddOns. Otherwise it has its own settings entry. In the AddOns enable/disable menu, it also groups beneath RatedStats when that addon is installed.
 
+| Command | Action |
+| --- | --- |
+| `/rbgalerts` | Open settings |
+| `/rbgalerts finder` | Show manual Group Finder instructions |
+| `/rbgalerts toggle` | Show or hide the widget |
+| `/rbgalerts reset` | Reset the widget position |
+
 ## Optional integration
 
 RBG Alerts works without any other Rated Stats addon. RatedStats_Achiev supplies achievement information only when available; RBG Alerts does not inspect or infer achievements for unknown leaders.
+
+## Reporting issues
+
+Include your WoW version, RBG Alerts version, steps to reproduce, and the full Lua error if one appeared. Mention whether RatedStats and RatedStats_Achiev were enabled. Screenshots are helpful for display issues.
